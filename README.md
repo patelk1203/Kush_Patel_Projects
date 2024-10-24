@@ -1,2 +1,2 @@
-# Kush_Patel_Projects
-Here are projects that I have worked on.
+# Phone Company 
+Python application simulating a phone company, integrating five distinct contract types and visualizing call traffic data through clear graphs.
